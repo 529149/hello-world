@@ -1,0 +1,5 @@
+Forking a repository creates a personal copy of someone else's project.
+Cloning the forked repository allows you to work on it locally.
+Creating a new branch is a best practice to encapsulate your changes.
+Committing and pushing your changes updates your forked repository.
+Creating a pull request allows the original project maintainers to review and merge your changes.
