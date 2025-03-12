@@ -1,1 +1,2 @@
 added billing feature in the application
+calculator feature added for the billing application
